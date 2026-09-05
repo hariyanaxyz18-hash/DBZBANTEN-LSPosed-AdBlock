@@ -1,0 +1,16 @@
+unityads.unity3d.com
+config.unityads.unity3d.com
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+app-measurement.com
+ads.applovin.com
+a.applovin.com
+inmobi.com
+pangle.io
+mintegral.com
+vungle.com
+chartboost.com
+ads.yandex.com
+ogury.com
+smaato.net
